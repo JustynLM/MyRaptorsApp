@@ -1,0 +1,62 @@
+2024-10-23, Cleveland, Home, 7:30PM EST
+2024-10-25, Philadelphia, Home, 7:30PM EST
+2024-10-26, Minnesota, Away, 8:00PM EST
+2024-10-28, Denver, Home, 7:30PM EST
+2024-10-30, Charlotte, Away, 7:30PM EST
+2024-11-09, LA Clippers, Away, 10:30 PM EST
+2024-11-10, LA Lakers, Away, 09:30 PM EST
+2024-11-12, Milwaukee Bucks, Away, 08:00 PM EST
+2024-11-15, Detroit Pistons, Home, 07:00 PM EST
+2024-11-16, Boston Celtics, Away, 08:00 PM EST
+2024-11-18, Indiana Pacers, Home, 07:30 PM EST 
+2024-11-21, Minnesota Timberwolves, Home, 07:30 PM EST
+2024-12-01, Miami Heat, Home, 06:00 PM EST
+2024-12-03, Indiana Pacers, Home, 07:30 PM EST
+2024-12-05, Oklahoma City Thunder, Home, 07:30 PM EST
+2024-12-07, Dallas Mavericks, Home, 07:30 PM EST
+2024-12-09, New York Knicks, Home, 07:30 PM EST
+2024-12-19, Brooklyn Nets, Home, 07:30 PM EST
+2024-12-22, Houston Rockets, Home, 06:00 PM EST
+2024-12-29, Atlanta Hawks, Home, 06:00 PM EST
+2025-01-01, Brooklyn Nets, Home, 07:30 PM EST
+2025-01-03, Orlando Magic, Home, 07:30 PM EST
+2025-01-06, Milwaukee Bucks, Home, 07:30 PM EST
+2025-01-13, Golden State Warriors, Home, 07:30 PM EST
+2025-01-15, Boston Celtics, Home, 07:30 PM EST
+2025-01-21, Orlando Magic, Home, 07:30 PM EST
+2025-01-27, New Orleans Pelicans, Home, 07:30 PM EST
+2025-01-31, Chicago Bulls, Home, 07:30 PM EST
+2025-02-02, LA Clippers, Home, 03:30 PM EST
+2025-02-04, New York Knicks, Home, 07:30 PM EST
+2025-02-05, Memphis Grizzlies, Home, 07:30 PM EST
+2025-02-7, Oklahoma City, Away, 8:00PM EST 
+2025-02-9, Houston, Away, 2:00PM EST
+2025-02-11, Philiadelphia, Away, 7:00PM EST
+2025-02-12, Cleveland, Home, 7:30PM EST
+2025-02-21, Miami, Home, 7:30PM EST
+2025-02-23, Phoenix, Home, 6:00PM EST
+2025-02-25, Boston, Home, 7:00PM EST
+2025-02-26, Indiana, Away, 7:00PM EST
+2025-02-28, Chicago, Away, 8:00PM EST
+2025-03-02, Orlando, Away, 6:00PM EST
+2025-03-04, Orlando, Away, 7:00PM EST
+2025-03-07, Utah, Home, 7:30PM EST
+2025-03-08, Washington, Home, 7:30PM EST
+2025-03-10, Washington, Home, 7:30PM EST	
+2025-03-12, Philadelphia, Home, 7:30PM EST
+2025-03-14, Utah, Away, 9:30PM EST
+2025-03-16, Portland, Away, 6:00PM EST
+2025-03-17, Phoenix, Away, 10:00PM EST
+2025-03-19, Golden State, Away, 10:00PM EST
+2025-03-23, San Antonio, Home, 6:00PM EST
+2025-03-24, Washington, Away, 7:00PM EST
+2025-03-26, Brooklyn, Away, 7:30PM EST
+2025-03-28, Charlotte, Home, 7:30PM EST
+2025-03-30, Philadelphia, Away, 7:30PM EST
+2025-04-01, Chicago, Away, 8:00PM EST
+2025-04-03, Portland, Home, 7:30PM EST
+2025-04-04, Detroit, Home, 7:30PM EST
+2025-04-06, Brooklyn, Away, 3:30PM EST
+2025-04-09, Charlotte, Home, 7:30PM EST
+2025-04-11, Dallas, Away, 8:30PM EST
+2025-04-13, San Antonio, Away, 3:30PM EST
