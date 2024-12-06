@@ -377,33 +377,6 @@ def add_player_window():
     salary_entry = tk.Entry(add_window)
     salary_entry.pack()
 
-def add_player_window():
-    add_window = tk.Toplevel(root)
-    add_window.title("Add New Player")
-
-    tk.Label(add_window, text="Name:").pack()
-    name_entry = tk.Entry(add_window)
-    name_entry.pack()
-
-    tk.Label(add_window, text="Position:"). pack()
-    position_entry = tk.Entry(add_window)
-    position_entry.pack()
-
-    tk.Label(add_window, text="Age:").pack()
-    age_entry = tk.Entry(add_window)
-    age_entry.pack()
-
-    tk.Label(add_window, text="Height:").pack()
-    height_entry = tk.Entry(add_window)
-    height_entry.pack()
-
-    tk.Label(add_window, text="Weight:").pack()
-    weight_entry = tk.Entry(add_window)
-    weight_entry.pack()
-
-    tk.Label(add_window, text="Salary:").pack()
-    salary_entry = tk.Entry(add_window)
-    salary_entry.pack()
 
     def save_new_player():
         name = name_entry.get()
